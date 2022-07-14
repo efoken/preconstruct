@@ -1,5 +1,11 @@
 # preconstruct
 
+## 2.2.1
+
+### Patch Changes
+
+- [#476](https://github.com/preconstruct/preconstruct/pull/476) [`3930466`](https://github.com/preconstruct/preconstruct/commit/3930466067f3ff03c332706fe8ab82beaec2235a) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Using `node:` to import Node builtins no longer triggers a "package is not specified in dependencies or peerDependencies" error
+
 ## 2.2.0
 
 ### Minor Changes
